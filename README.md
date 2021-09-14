@@ -7,11 +7,14 @@ Project was created on 13th september, 2021
 Bikeshare Analytics
 
 ### Description
-Describe what your project is about and what it does
+This project is a data analytic solution of a bike sharing company in the US. 
+Data from three cities are currently being used while new release will feature additional cities
 
 ### Files used
 File used for this project are csv data from chicago, new_york and washington
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+SudKul : https://github.com/SudKul
+Ruchi B : https://github.com/rbUdacProjects
+
 
