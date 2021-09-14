@@ -14,7 +14,7 @@ Data from three cities are currently being used while new release will feature a
 File used for this project are csv data from chicago, new_york and washington
 
 ### Credits
-SudKul : https://github.com/SudKul
+SudKul : https://github.com/SudKul </br>
 Ruchi B : https://github.com/rbUdacProjects
 
 
