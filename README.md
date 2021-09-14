@@ -9,7 +9,7 @@ Bikeshare Analytics
 ### Description
 This project is a data analytic solution of a bike sharing company in the US. </br>
 Data from three cities are currently being used while new release will feature additional cities </br>
-Data are filtered based on city and dates
+Data are filtered based on city and month and week
 
 ### Files used
 File used for this project are csv data from chicago, new_york and washington
