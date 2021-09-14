@@ -260,7 +260,6 @@ def show_raw_data(df):
         if row>=df.shape[0]:
             print('No more data to display')
             break
-        #print(df[row:row+5])
         print(tabulate(df[row:row+5], headers="keys"))
         try:
             see_data = input('\nWould you like to see next five lines of data? Enter yes or no.\n')
