@@ -7,7 +7,7 @@ Project was created on 13th september, 2021
 Bikeshare Analytics
 
 ### Description
-This project is a data analytic solution of a bike sharing company in the US. 
+This project is a data analytic solution of a bike sharing company in the US. </br>
 Data from three cities are currently being used while new release will feature additional cities
 
 ### Files used
