@@ -4,13 +4,13 @@
 Project was created on 13th september, 2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare Analytics
 
 ### Description
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+File used for this project are csv data from chicago, new_york and washington
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
